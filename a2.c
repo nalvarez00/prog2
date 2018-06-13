@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//hi
+
 int isValidCommand(char command){
 	//if the ascii value of the character is between A-H or between a-h 
 	if ( (command >= 65 && command <= 72) || (command >= 97 && command <= 104) ){
